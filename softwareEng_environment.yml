@@ -1,0 +1,6 @@
+name: comp30830softwareEng
+channels:
+  - defaults
+dependencies:
+  - python
+prefix: /Applications/anaconda3/envs/comp30830softwareEng
